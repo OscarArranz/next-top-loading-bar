@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/OscarArranz/next-top-page-loading-bar/compare/v1.1.0...v1.1.1) (2025-03-09)
+
+
+### Bug Fixes
+
+* release-contents ([604d4a3](https://github.com/OscarArranz/next-top-page-loading-bar/commit/604d4a380abaee9a339e99b704ec648a2ef34af2))
+* release-contents ([63bf85a](https://github.com/OscarArranz/next-top-page-loading-bar/commit/63bf85acd4a1d7d55829be6f3eca417c006f78b9))
+
 ## [1.1.0](https://github.com/OscarArranz/next-top-page-loading-bar/compare/v1.0.0...v1.1.0) (2025-03-09)
 
 
