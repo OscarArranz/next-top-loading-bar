@@ -1,8 +1,8 @@
-# Next Top Loading Bar 🚀
+# Next Top Page Loading Bar 🚀
 
 Ever watched that slick loading bar at the top of YouTube and thought, "Damn, I want that for my Next.js app"? Well, good news! You're in the right place!
 
-**Next Top Loading Bar** gives your Next.js application that sweet, sweet loading indicator that spans across the top of the viewport whenever a page navigation happens. It's not just a static bar - it animates to give users that satisfying feeling of progress (even if it's just for show... shhh, don't tell your users! 🤫).
+**Next Top Page Loading Bar** gives your Next.js application that sweet, sweet loading indicator that spans across the top of the viewport whenever a page navigation happens. It's not just a static bar - it animates to give users that satisfying feeling of progress (even if it's just for show... shhh, don't tell your users! 🤫).
 
 ## Installation 📦
 
