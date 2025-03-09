@@ -1,5 +1,5 @@
 {
-  "name": "next-top-loading-bar",
+  "name": "next-top-page-loading-bar",
   "description": "A Next.js page load progress bar compatible with the App Router",
   "author": "Oscar Arranz",
   "license": "MIT",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/OscarArranz/next-top-loading-bar.git"
+    "url": "https://github.com/OscarArranz/next-top-page-loading-bar.git"
   },
   "keywords": [
     "next.js",
