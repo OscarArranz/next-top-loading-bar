@@ -3,14 +3,9 @@ import { pluginTypedCSSModules } from '@rsbuild/plugin-typed-css-modules';
 import { defineConfig } from '@rslib/core';
 
 export default defineConfig({
-  source: {
-    entry: {
-      index: './src/index.ts',
-    },
-  },
   lib: [
     {
-      bundle: true,
+      bundle: false,
       dts: true,
       format: 'esm',
     },
