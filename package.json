@@ -3,7 +3,7 @@
   "description": "A Next.js page load progress bar compatible with the App Router",
   "author": "Oscar Arranz",
   "license": "MIT",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "type": "module",
   "exports": {
     ".": {
