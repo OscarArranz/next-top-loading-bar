@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/OscarArranz/next-top-page-loading-bar/compare/v1.1.1...v1.2.0) (2025-03-09)
+
+
+### Features
+
+* remove bundling option from rspack config, update package dependencies and documentation for renamed package ([15e42ec](https://github.com/OscarArranz/next-top-page-loading-bar/commit/15e42ec7885f9ec114643730c50d44e557d722f6))
+
 ## [1.1.1](https://github.com/OscarArranz/next-top-page-loading-bar/compare/v1.1.0...v1.1.1) (2025-03-09)
 
 
