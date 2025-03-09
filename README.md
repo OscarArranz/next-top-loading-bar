@@ -1,8 +1,8 @@
-# Next Top Loading Bar 🚀
+# Next Top Page Loading Bar 🚀
 
 Ever watched that slick loading bar at the top of YouTube and thought, "Damn, I want that for my Next.js app"? Well, good news! You're in the right place!
 
-**Next Top Loading Bar** gives your Next.js application that sweet, sweet loading indicator that spans across the top of the viewport whenever a page navigation happens. It's not just a static bar - it animates to give users that satisfying feeling of progress (even if it's just for show... shhh, don't tell your users! 🤫).
+**Next Top Page Loading Bar** gives your Next.js application that sweet, sweet loading indicator that spans across the top of the viewport whenever a page navigation happens. It's not just a static bar - it animates to give users that satisfying feeling of progress (even if it's just for show... shhh, don't tell your users! 🤫).
 
 ## Installation 📦
 
@@ -10,16 +10,16 @@ Choose your weapon:
 
 ```bash
 # npm
-npm install next-top-loading-bar
+npm install next-top-page-loading-bar
 
 # yarn
-yarn add next-top-loading-bar
+yarn add next-top-page-loading-bar
 
 # pnpm
-pnpm add next-top-loading-bar
+pnpm add next-top-page-loading-bar
 
 # bun
-bun add next-top-loading-bar
+bun add next-top-page-loading-bar
 ```
 
 ## Compatibility ⚠️
@@ -42,7 +42,7 @@ First, add the `RouteChangeHandler` component to your app's main layout. The bes
 
 ```tsx
 // app/layout.tsx
-import { RouteChangeHandler } from 'next-top-loading-bar';
+import { RouteChangeHandler } from 'next-top-page-loading-bar';
 
 export default function RootLayout({
   children,
@@ -71,7 +71,7 @@ Replace Next.js's default `Link` component with our enhanced version:
 import Link from 'next/link';
 
 // After 🎉
-import { Link } from 'next-top-loading-bar';
+import { Link } from 'next-top-page-loading-bar';
 
 // Usage remains the same
 <Link href="/about">About</Link>
@@ -86,7 +86,7 @@ Similarly, replace Next.js's `useRouter` with our enhanced version:
 import { useRouter } from 'next/navigation';
 
 // After 🎉
-import { useRouter } from 'next-top-loading-bar';
+import { useRouter } from 'next-top-page-loading-bar';
 
 // Usage remains the same
 const router = useRouter();
@@ -99,7 +99,7 @@ Finally, add the `NextTopLoadingBar` component wherever you want the loading bar
 
 ```tsx
 // app/layout.tsx or any component that's present on all pages
-import { NextTopLoadingBar } from 'next-top-loading-bar';
+import { NextTopLoadingBar } from 'next-top-page-loading-bar';
 
 export default function MyLayout({ children }) {
   return (
